@@ -1,4 +1,4 @@
-# Web-Parsing
+# Web-Scraping
 python scripts to get data on drugs prices and stock/distribution from open web sources
 
 # bystrum_pr.py 
